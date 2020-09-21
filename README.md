@@ -1,4 +1,4 @@
-# Web-App-for-recognize-handwritte-digits
+# Web-App-to-recognize-handwritten-digits
 
 
 It’s a 19 lines code to recognize handwritten digits on a UI. The dataset used is MNIST dataset.  
